@@ -1,0 +1,6 @@
+Well_ID,Well_Name,Location,Spud_Date,Prod_Start,Prod_End,Volume_Produced,Operator,Status
+1001,Alpha-1,TX,2019-01-01,2019-04-15,2023-06-01,185000.0,Devon,Active
+1002,Beta-2,OK,2020-03-12,2020-05-22,2023-06-01,,Unknown,Inactive
+1003,Gamma-3,NM,2021-07-08,2021-09-15,2021-09-01,200000.0,Conoco,Active
+1004,Delta-4,TX,2022-05-20,2022-07-01,2023-05-10,-500.0,Chevron,Inactive
+1005,Echo-5,CO,2022-09-10,2022-10-01,2022-10-01,130000.0,,Active
